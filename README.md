@@ -39,7 +39,7 @@
 
 # My TryHackMe Profile :
 <div style="display: flex;">
-   <a href="https://tryhackme.com/p/wristunchallenge"><img src="" alt="TryHackMe 🎆🎇"></a>
+   <a href="https://tryhackme.com/p/wristunchallenge"><img src="https://postimg.cc/9zjGGkz9" alt="TryHackMe 🎆🎇"></a>
 </div>
 
 
