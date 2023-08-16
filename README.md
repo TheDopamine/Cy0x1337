@@ -47,4 +47,5 @@
 <p align="left">
 <a href="https://twitter.com/the_dopamine0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_dopamine0" height="30" width="40" /></a>
 </p>
-
+## Below is my contributions graph for 2022 / 2023
+<img src = https://github.com/0x157/0x157/blob/output/contrib-snek-yami.svg >
