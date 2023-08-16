@@ -30,6 +30,18 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cy0x1337&label=Profile%20views&color=0e75b6&style=flat" alt="cy0x1337" /> </p>
 
+</br>
+
+
+## Hobbies : 
+
+   🎖🎮 *Playing CTFs* 🥈</br>
+
+# My TryHackMe Profile :
+<div style="display: flex;">
+   <a href="https://tryhackme.com/p/wristunchallenge"><img src="" alt="TryHackMe 🎆🎇"></a>
+</div>
+
 
 <h3 align="left">🏴‍☠️ Connect with me 👋:</h3>
 <p align="left">
