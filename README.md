@@ -36,11 +36,3 @@
 <a href="https://twitter.com/the_dopamine0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_dopamine0" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cy0x1337&show_icons=true&locale=en&layout=compact" alt="cy0x1337" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cy0x1337&show_icons=true&locale=en" alt="cy0x1337" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cy0x1337&" alt="cy0x1337" /></p>
-
