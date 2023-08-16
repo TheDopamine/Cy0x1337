@@ -23,7 +23,7 @@
                      \          /    \           /       ██ ██      ██      ██    ██ ██   ██ ██    ██       ██    
                       `'-------`      `--------'`   ███████ ███████  ██████  ██████  ██   ██ ██    ██       ██                              
                       
- <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://fahdabida.com/"></a></b>
+
     
 
 </samp>
@@ -39,7 +39,7 @@
 
 # My TryHackMe Profile :
 <div style="display: flex;">
-   <a href="https://tryhackme.com/p/wristunchallenge"> alt="TryHackMe 🎆🎇"></a>
+   <a href="https://tryhackme.com/p/wristunchallenge">TryHackMe 🎆🎇
 </div>
 
 
